@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Luka Jioshvili</h1>
 
-<!--
-**LazyDoomSlayer/LazyDoomSlayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Full-Stack Software Engineer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building modern web, backend, and desktop applications with
+<strong>Vue.js</strong>, <strong>TypeScript</strong>, <strong>NestJS</strong>, <strong>Rust</strong>, and <strong>Python</strong>.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://linkedin.com/in/luka-jioshvili">LinkedIn</a> •
+<a href="https://dev.to/lazydoomslayer">Dev.to</a> •
+<a href="https://medium.com/@lazydoomslayer">Medium</a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently building web, backend, and desktop applications with **Vue.js**, **NestJS**, **Rust**, and **Python**.
+- 🌱 Currently exploring **distributed systems**, **infrastructure engineering**, and **advanced Rust**.
+- 💬 Ask me about **Vue.js**, **TypeScript**, **NestJS**, **Rust**, **Python**, **Tauri**, **WebRTC**, **MQTT**, and **Linux**.
+- 🎤 Speaker at **RustMeet 2026** – *From Web to Desktop: Building Real Apps with Tauri v2*.
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+- Vue.js
+- TypeScript
+- Vite
+- Pinia
+
+**Backend**
+
+- NestJS
+- Node.js
+- Python
+
+**Systems**
+
+- Rust
+- Tauri
+- Tokio
+
+**Databases**
+
+- PostgreSQL
+- SQLite
+
+**Infrastructure**
+
+- Docker
+- Linux
+- GitHub Actions
