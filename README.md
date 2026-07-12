@@ -26,27 +26,6 @@ Building enterprise web, backend, and desktop applications with
 - 💬 Ask me about **Vue.js**, **TypeScript**, **Node.js**, **NestJS**, **Rust**, **Tauri**, **MQTT**, **WebRTC**, **PostgreSQL**, and **Linux**.
 - 🎤 Speaker at **RustMeet 2026** — *From Web to Desktop: Building Real Apps with Tauri v2*.
 
----
-
-## Featured Projects
-
-### Pine *(Work in Progress)*
-A modern **PHP CLI framework** built from scratch to explore dependency injection, service providers, events, plugins, queues, scheduling, testing, and developer tooling.
-
-### CuePoint *(Private)*
-Cross-platform desktop application for billiard hall management built with **Vue.js**, **Rust (Tauri)**, **SQLite**, and **Drizzle ORM**, featuring real-time device control and business management workflows.
-
-### IoT Decoder
-TypeScript library for parsing and decoding LoRaWAN payloads into structured data.
-
-### Harbor Sweep
-Cross-platform utility for discovering and managing active network ports and running processes.
-
-### Relay Deck
-Desktop application for controlling Modbus RTU relay hardware using **Rust**, **Tauri**, and **Vue.js**.
-
----
-
 ## 🛠️ Tech Stack
 
 - **Languages:** TypeScript, JavaScript, Rust, Python, PHP
@@ -55,19 +34,6 @@ Desktop application for controlling Modbus RTU relay hardware using **Rust**, **
 - **Desktop:** Tauri
 - **Testing:** Vitest, Jest, Playwright
 - **Tools:** Docker, Git, GitHub Actions, Linux
-
----
-
-## Articles
-
-I enjoy writing about software architecture, Vue.js, TypeScript, and engineering practices.
-
-- Building Scalable Vue Applications
-- Component Architecture in Vue
-- Project Structure & Folder Organization
-- Modern Frontend Engineering
-
-More on **Dev.to** and **Medium**.
 
 ---
 
